@@ -1,5 +1,8 @@
 # 📊 Análise de Salários na Área de Dados
 
+🔗 **Acesse o dashboard interativo:**  
+https://dashboard-salarios-dados.streamlit.app
+
 # Resumo
 Este projeto realiza uma **análise exploratória de dados salariais na área de Dados**, utilizando Python e bibliotecas amplamente usadas no mercado. Além da análise em notebook, o projeto também pode ser executado como um **dashboard interativo com Streamlit**.
 
